@@ -2,7 +2,11 @@ One day a human went looking for a list of land-grant universities and their dom
 
 
 
-##### Acknowledgements
-- <span>Sad pug avatar by <a href="https://unsplash.com/@matthewhenry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matthew Henry</a> on <a href="https://unsplash.com/s/photos/sleep?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 \* Due to its subjective nature, we do not take responsibility for datasets that others may find _interesting_.
+
+
+
+#### Acknowledgements
+- <span>Sad pug avatar by <a href="https://unsplash.com/@matthewhenry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matthew Henry</a> on <a href="https://unsplash.com/s/photos/sleep?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- First boring contribution: Julian! 🎉 
