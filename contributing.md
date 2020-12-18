@@ -3,18 +3,17 @@
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note we have a code of conduct; please follow it in all your interactions with the project.
 
 ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
    build.
-2. Update the README.md with details of changes to the interface, this includes new environment 
-   variables, exposed ports, useful file locations and container parameters.
+2. Update the README.md with details of changes to the interface. This includes new environment 
+   variables, exposed ports, useful file locations, and container parameters.
 3. Increase the version numbers in any examples files and the README.md to the new version that this
    Pull Request would represent.
-4. You may merge the Pull Request in once you have the sign-off of to other developers, or if you 
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+4. Once you've completed and submitted your Pull Request, it will be reviewed by one or more contributors. They may request or suggest changes as needed before merging. Feel free to assign a particular reviewer and to have a conversation in the comment section if you disagree with any of their suggested changes.
 
 ## Code of Conduct
 
@@ -81,4 +80,4 @@ Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+members of the project's leadership.If you do not feel comfortable reporting to the maintainers due to their involvement or for any other reason, or if you feel that your report was not appropriately addressed, follow these [instructions](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/reporting-abuse-or-spam#reporting-a-user) to report a user directly to GitHub Support. 
