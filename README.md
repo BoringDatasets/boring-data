@@ -7,6 +7,11 @@ One day a human went looking for a list of land-grant universities and their dom
 
 
 
+
+
+#### Thank you to all contributors!
+- [Julian](https://github.com/julianpistorius)
+- [Aman Soni](https://github.com/iamansoni)
+
 #### Acknowledgements
 - <span>Sad pug avatar by <a href="https://unsplash.com/@matthewhenry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matthew Henry</a> on <a href="https://unsplash.com/s/photos/sleep?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-- First boring contribution: Julian! 🎉 
